@@ -1,6 +1,15 @@
-/*TESTE FIZZBUZZ*/
+/*TESTE FIZZBUZZ
+ 
 
-/* complete a funcao fizzBuxx no editor abaixo . fizzBuzz tem os seguintes parâmetros: int n : limite superior de  valores a testar (inclusive) return: none     prints: A funcao deve  imprimir a resposta apropriada para cadad valor i no conjunto {1,2, .. n} em ordem crescente, cada um em uma linha separada.*/
+complete a funcao fizzBuxx no editor abaixo . 
+fizzBuzz tem os seguintes parâmetros:
+ int n : limite superior de  valores a testar (inclusive)
+ return: none     
+ prints: A funcao deve  imprimir a resposta apropriada
+  para cadad valor i no conjunto {1,2, .. n} 
+  em ordem crescente, cada um em uma linha separada.
+  
+*/
 
 
 
